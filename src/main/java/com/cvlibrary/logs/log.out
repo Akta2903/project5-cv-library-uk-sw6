@@ -1,0 +1,60 @@
+2023-05-18 20:05:755 INFO  HomePage :62 - Enter Job title Tester
+2023-05-18 20:05:136 INFO  HomePage :68 - Enter the Location Harrow, Greater London
+2023-05-18 20:05:562 INFO  HomePage :74 - Select the distance 5 miles
+2023-05-18 20:05:902 INFO  HomePage :79 - Click on more search option link [[ChromeDriver: chrome on WINDOWS (e9505088eb400ef28bf06b3d8af8d4a8)] -> xpath: //button[@id='toggle-hp-search']]
+2023-05-18 20:05:263 INFO  HomePage :91 - Enter the min salary 30000
+2023-05-18 20:05:473 INFO  HomePage :85 - Enter the max salary 50000
+2023-05-18 20:05:743 INFO  HomePage :96 - Select the salary type [[ChromeDriver: chrome on WINDOWS (e9505088eb400ef28bf06b3d8af8d4a8)] -> xpath: //select[@id='salarytype']]
+2023-05-18 20:05:947 INFO  HomePage :101 - Select the Job type [[ChromeDriver: chrome on WINDOWS (e9505088eb400ef28bf06b3d8af8d4a8)] -> xpath: //select[@id='tempperm']]
+2023-05-18 20:05:402 INFO  HomePage :106 - Click on find jobs button [[ChromeDriver: chrome on WINDOWS (e9505088eb400ef28bf06b3d8af8d4a8)] -> xpath: //input[@id='hp-search-btn']]
+2023-05-18 20:05:417 INFO  ResultPage :28 - Getting the result Message displayed 
+2023-05-18 20:05:370 INFO  HomePage :62 - Enter Job title Automation Tester
+2023-05-18 20:05:673 INFO  HomePage :68 - Enter the Location Central London
+2023-05-18 20:05:919 INFO  HomePage :74 - Select the distance 2 miles
+2023-05-18 20:05:99 INFO  HomePage :79 - Click on more search option link [[ChromeDriver: chrome on WINDOWS (32af66961e08deeaf3b6aea9c46f7b1d)] -> xpath: //button[@id='toggle-hp-search']]
+2023-05-18 20:05:530 INFO  HomePage :91 - Enter the min salary 40000
+2023-05-18 20:05:738 INFO  HomePage :85 - Enter the max salary 60000
+2023-05-18 20:05:992 INFO  HomePage :96 - Select the salary type [[ChromeDriver: chrome on WINDOWS (32af66961e08deeaf3b6aea9c46f7b1d)] -> xpath: //select[@id='salarytype']]
+2023-05-18 20:05:196 INFO  HomePage :101 - Select the Job type [[ChromeDriver: chrome on WINDOWS (32af66961e08deeaf3b6aea9c46f7b1d)] -> xpath: //select[@id='tempperm']]
+2023-05-18 20:05:439 INFO  HomePage :106 - Click on find jobs button [[ChromeDriver: chrome on WINDOWS (32af66961e08deeaf3b6aea9c46f7b1d)] -> xpath: //input[@id='hp-search-btn']]
+2023-05-18 20:05:449 INFO  ResultPage :28 - Getting the result Message displayed 
+2023-05-18 20:05:74 INFO  HomePage :62 - Enter Job title Developer
+2023-05-18 20:05:377 INFO  HomePage :68 - Enter the Location Colindale, Greater London
+2023-05-18 20:05:629 INFO  HomePage :74 - Select the distance 1 mile
+2023-05-18 20:05:983 INFO  HomePage :79 - Click on more search option link [[ChromeDriver: chrome on WINDOWS (15c41e262aa1150b170a0b669b16ab1a)] -> xpath: //button[@id='toggle-hp-search']]
+2023-05-18 20:05:277 INFO  HomePage :91 - Enter the min salary 3500
+2023-05-18 20:05:440 INFO  HomePage :85 - Enter the max salary 4000
+2023-05-18 20:05:670 INFO  HomePage :96 - Select the salary type [[ChromeDriver: chrome on WINDOWS (15c41e262aa1150b170a0b669b16ab1a)] -> xpath: //select[@id='salarytype']]
+2023-05-18 20:05:849 INFO  HomePage :101 - Select the Job type [[ChromeDriver: chrome on WINDOWS (15c41e262aa1150b170a0b669b16ab1a)] -> xpath: //select[@id='tempperm']]
+2023-05-18 20:05:94 INFO  HomePage :106 - Click on find jobs button [[ChromeDriver: chrome on WINDOWS (15c41e262aa1150b170a0b669b16ab1a)] -> xpath: //input[@id='hp-search-btn']]
+2023-05-18 20:05:101 INFO  ResultPage :28 - Getting the result Message displayed 
+2023-05-18 20:05:233 INFO  HomePage :62 - Enter Job title Developer
+2023-05-18 20:05:569 INFO  HomePage :68 - Enter the Location Wembley, Greater London
+2023-05-18 20:05:836 INFO  HomePage :74 - Select the distance 7 miles
+2023-05-18 20:05:17 INFO  HomePage :79 - Click on more search option link [[ChromeDriver: chrome on WINDOWS (0e96fbec1da4fc538178ba3fe7e7ab7f)] -> xpath: //button[@id='toggle-hp-search']]
+2023-05-18 20:05:416 INFO  HomePage :91 - Enter the min salary 20000
+2023-05-18 20:05:657 INFO  HomePage :85 - Enter the max salary 40000
+2023-05-18 20:05:889 INFO  HomePage :96 - Select the salary type [[ChromeDriver: chrome on WINDOWS (0e96fbec1da4fc538178ba3fe7e7ab7f)] -> xpath: //select[@id='salarytype']]
+2023-05-18 20:05:75 INFO  HomePage :101 - Select the Job type [[ChromeDriver: chrome on WINDOWS (0e96fbec1da4fc538178ba3fe7e7ab7f)] -> xpath: //select[@id='tempperm']]
+2023-05-18 20:05:315 INFO  HomePage :106 - Click on find jobs button [[ChromeDriver: chrome on WINDOWS (0e96fbec1da4fc538178ba3fe7e7ab7f)] -> xpath: //input[@id='hp-search-btn']]
+2023-05-18 20:05:356 INFO  ResultPage :28 - Getting the result Message displayed 
+2023-05-18 20:05:844 INFO  HomePage :62 - Enter Job title nurse
+2023-05-18 20:05:77 INFO  HomePage :68 - Enter the Location Birmingham
+2023-05-18 20:05:331 INFO  HomePage :74 - Select the distance 1 mile
+2023-05-18 20:05:565 INFO  HomePage :79 - Click on more search option link [[ChromeDriver: chrome on WINDOWS (aaf105cdda2d038c15e5c2c440595d98)] -> xpath: //button[@id='toggle-hp-search']]
+2023-05-18 20:05:938 INFO  HomePage :91 - Enter the min salary 20000
+2023-05-18 20:05:113 INFO  HomePage :85 - Enter the max salary 40000
+2023-05-18 20:05:298 INFO  HomePage :96 - Select the salary type [[ChromeDriver: chrome on WINDOWS (aaf105cdda2d038c15e5c2c440595d98)] -> xpath: //select[@id='salarytype']]
+2023-05-18 20:05:504 INFO  HomePage :101 - Select the Job type [[ChromeDriver: chrome on WINDOWS (aaf105cdda2d038c15e5c2c440595d98)] -> xpath: //select[@id='tempperm']]
+2023-05-18 20:05:710 INFO  HomePage :106 - Click on find jobs button [[ChromeDriver: chrome on WINDOWS (aaf105cdda2d038c15e5c2c440595d98)] -> xpath: //input[@id='hp-search-btn']]
+2023-05-18 20:05:717 INFO  ResultPage :28 - Getting the result Message displayed 
+2023-05-18 20:05:52 INFO  HomePage :62 - Enter Job title QA
+2023-05-18 20:05:391 INFO  HomePage :68 - Enter the Location Edgware
+2023-05-18 20:05:610 INFO  HomePage :74 - Select the distance 2 miles
+2023-05-18 20:05:812 INFO  HomePage :79 - Click on more search option link [[ChromeDriver: chrome on WINDOWS (45f48ad69cf7045ffeaf25acce0974dd)] -> xpath: //button[@id='toggle-hp-search']]
+2023-05-18 20:05:164 INFO  HomePage :91 - Enter the min salary 30000
+2023-05-18 20:05:348 INFO  HomePage :85 - Enter the max salary 50000
+2023-05-18 20:05:544 INFO  HomePage :96 - Select the salary type [[ChromeDriver: chrome on WINDOWS (45f48ad69cf7045ffeaf25acce0974dd)] -> xpath: //select[@id='salarytype']]
+2023-05-18 20:05:700 INFO  HomePage :101 - Select the Job type [[ChromeDriver: chrome on WINDOWS (45f48ad69cf7045ffeaf25acce0974dd)] -> xpath: //select[@id='tempperm']]
+2023-05-18 20:05:928 INFO  HomePage :106 - Click on find jobs button [[ChromeDriver: chrome on WINDOWS (45f48ad69cf7045ffeaf25acce0974dd)] -> xpath: //input[@id='hp-search-btn']]
+2023-05-18 20:05:939 INFO  ResultPage :28 - Getting the result Message displayed 
